@@ -1,9 +1,9 @@
 <h1>Product Version Document &ndash; ProcureX</h1>
-<strong>Version:</strong> 1.0
-<strong>Date:</strong> July 15, 2025
-<strong>Prepared By:</strong> Tanmoy Mitra
-<strong>Product Name:</strong> ProcureX
-<strong>Tagline:</strong> Smart B2B Procurement. Secured. Simplified.
+<p><strong>Version:</strong> 1.0</p>
+<p><strong>Date:</strong> July 15, 2025</p>
+<p><strong>Prepared By:</strong> Tanmoy Mitra</p>
+<p><strong>Product Name:</strong> ProcureX</p>
+<p><strong>Tagline:</strong> Smart B2B Procurement. Secured. Simplified.</p>
 <h1>Executive Summary</h1>
 <p>ProcureX is an intelligent B2B e-procurement marketplace that empowers enterprises and verified suppliers to engage in secure, efficient, and compliant procurement transactions. It unifies marketplace listings, digital procurement workflows, escrow-based payments, logistics coordination, and AI-powered intelligence in one seamless platform.</p>
 <h1>Product Overview</h1>
